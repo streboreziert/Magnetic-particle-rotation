@@ -1,0 +1,1 @@
+Dotajā repozitorijā tiek analizēts programmatūras kods, kas tiek izmantots zinātniski pētnieciskajā darbā (ZPD) par magnētisko daļiņu rotācijas eksperimenta veikšanu, datu apstrādi un rezultātu vizualizāciju. Izskatāmais kods ir izstrādāts, izmantojot Python programmēšanas valodu, kas nodrošina efektīvus līdzekļus zinātniskai skaitļošanai un datu analīzei.
